@@ -1,7 +1,7 @@
 from config import Config
 
 class Translation(object):
-      START = str(Config.START) + "\n\nHey , welcome to Disney Team Feedback Bot"
+      START = str(Config.START) + "\n\nHey {user_mention} , welcome to Disney Team Feedback Bot here you can send feedback to owner or admin made with ♥ project by @disneygrou  "
 
       RULES = Config.RULES
 
