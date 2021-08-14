@@ -24,7 +24,7 @@
     },
     "START": {
       "description": "Enter the start message.",
-      "value": "HI"
+      "requried": "false"
     },
     "RULES": {
       "description": "Type the rules here.",
