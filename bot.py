@@ -25,4 +25,4 @@ class feedback(Client):
         )
 
 if __name__ == "__main__" :
-    feedback().run()i
+    feedback().run()
