@@ -2,7 +2,7 @@
 a feedback sender bot
 
 ##Deploy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam77/feedbackdisneybot/tree/main)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam77/feedbackdisneybot/tree/main)
 - 👆 Press the deploy button.
 
 #How To Get Your  APP ID And API HASH
