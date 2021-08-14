@@ -1,7 +1,7 @@
 from config import Config
 
 class Translation(object):
-      START = str(Config.START) + f Hey "@{m.from_user.username}"  welcome to Disney Team Feedback Bot here you can send feedback to owner or admin made with ♥ project by @disneygrou"
+      START = str(Config.START) + f"Hey @{m.from_user.username}"  welcome to Disney Team Feedback Bot here you can send feedback to owner or admin made with ♥ project by @disneygrou"
 
       RULES = Config.RULES
 
